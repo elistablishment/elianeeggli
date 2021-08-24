@@ -1,8 +1,7 @@
 +++
 headless = true
-title = "Vorname Nachname"
-description = "mein Blog"
+title = "Eliane Eggli"
+description = "meine Projekte im WEB"
 footerLeft = "Powered by ❤️ and [lernblog.ch](https://www.lernblog.ch)"
 footerRight = ""
 +++
-
