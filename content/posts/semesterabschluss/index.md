@@ -23,7 +23,7 @@ Am Schluss kam eine, meiner Meinung nach, anschauliche Website zu Stande. Wir ze
 
 ![](screenshot-2022-01-11-162511.png)
 
-## Fazit& Zukunft
+## Fazit & Zukunft
 
 Ich weiss nun, wie man ganz einfach mit Shopify eine Website erstellen kann, jedoch bin ich mit jedem Bearbeiten wieder Neues am dazu lernen. Die Website ist momentan pausiert, vor dem Aufschalten werde ich in meiner Freizeit zusammen mit meinen Eltern die Feinschliffe tätigen. Feinschliffe werden sein: Bilder der Beteiligten machen (Personen und Hunde), die Domain verknüpfen und einen Instagram Account erstellen.
 
