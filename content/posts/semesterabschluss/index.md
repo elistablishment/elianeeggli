@@ -13,11 +13,7 @@ Angéline und ich haben die Website Seeland Trüffel erstellt. Meine Eltern Ursu
 
 Der erste Schritt, um zu starten war die Auswahl eines Tools für die Gestaltung der Website. In Frage kamen Squarespace, Jimdo, Wix oder Shopify. Unsere Wahl fiel auf Shopify, weil das Preisleistungsverhältnis alle Beteiligten überzeugte. Sich in der App einzufinden war jedoch schwieriger als gedacht. Nach langem ausprobieren schauten wir ein sehr langes Youtube Video über Shopify. Dies war zehr zeitaufwändig, lohnte sich jedoch sehr. Dank dem Video und Marco, der uns bei Fragen immer weiterhelfen konnte, wurden wir schon bald richtige Shopify-Amateure. Wir taten uns auch ein bisschen schwierig mit der Theme Auswahl auf Shopify. letztendlich haben wir uns unter Absprache mit unseren Kunden für ein kostenpflichtiges entschieden. Ein Shopify Abo wurde gelöst und ich ging in die Trüffelanlage Fotos machen, um sie für die Website zu verwenden.
 
-![](image00002.jpeg)
-
-![](image00004.jpeg)
-
-![](image00013.jpeg)
+![](screenshot-2022-01-11-162941.png)
 
 ## "Endprodukt"
 
